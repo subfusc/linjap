@@ -1,0 +1,42 @@
+# Written by Sindre Wetjen(c)
+# Kana practicing dict, and example dict.
+# Every line with a # infront is a Comment, btw!
+
+# Use \part and \chapter to define names to the parts and chapters.
+# You can use \<command> followed by any number of names seperated by
+# ", "
+\part Basic
+\part Advanced, With Small
+
+\chapter Hiragana
+# Word 1| Word 2 | Alternative word 2 | Chapter | Part
+ka|か|か|1|1
+ki|き|き|1|1
+ku|く|く|1|1
+ke|け|け|1|1
+ko|こ|こ|1|1
+sa|さ|さ|1|2
+shi|し|し|1|2
+su|す|す|1|2
+se|せ|せ|1|2
+so|そ|そ|1|2
+ta|た|た|1|3
+chi|ち|ち|1|3
+tsu|つ|つ|1|3
+te|て|て|1|3
+to|と|と|1|3
+
+\chapter Katakana
+ka|カ|カ|2|1
+ki|キ|キ|2|1
+ku|ク|ク|2|1
+ke|ケ|ケ|2|1
+ko|コ|コ|2|1
+sa|サ|サ|2|2
+shi|シ|シ|2|2
+su|ス|ス|2|2
+se|セ|セ|2|2
+so|ソ|ソ|2|2
+
+# 25 Words in file
+#Comment, end of file.
